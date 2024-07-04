@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://lofty-sailor-943.notion.site/Hi-I-m-SeungMin-29f022996d6e4d0b9fd1e907c7ead974?pvs=4](https://lofty-sailor-943.notion.site/Hi-I-m-SeungMin-29f022996d6e4d0b9fd1e907c7ead974?pvs=4)
+- 👨‍💻 My portfolio is available at [https://lofty-sailor-943.notion.site/Hi-I-m-SeungMin-29f022996d6e4d0b9fd1e907c7ead974?pvs=4](https://lofty-sailor-943.notion.site/Hi-I-m-SeungMin-29f022996d6e4d0b9fd1e907c7ead974?pvs=4)
 
 - 📫 How to reach me **jah02190@naver.com**
 
