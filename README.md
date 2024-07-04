@@ -3,6 +3,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seungmin-baek98&label=Profile%20views&color=0e75b6&style=flat" alt="seungmin-baek98" /> </p>
 
+- 🌱 I’m currently learning **JavaScript**
+
+- 👨‍💻 All of my projects are available at [https://lofty-sailor-943.notion.site/Hi-I-m-SeungMin-29f022996d6e4d0b9fd1e907c7ead974?pvs=4](https://lofty-sailor-943.notion.site/Hi-I-m-SeungMin-29f022996d6e4d0b9fd1e907c7ead974?pvs=4)
+
 - 📫 How to reach me **jah02190@naver.com**
 
 <h3 align="left">Connect with me:</h3>
