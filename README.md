@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript(ES6)**
 
-- 👨‍💻 All of my projects are available at [https://github.com/suover/ott-search , https://github.com/suover/fit-on]
+- 👨‍💻 All of my team-projects are available at [https://github.com/suover/ott-search , https://github.com/suover/fit-on]
 
 - more detail.. 👉 [https://lofty-sailor-943.notion.site/Hi-I-m-SeungMin-29f022996d6e4d0b9fd1e907c7ead974?pvs=4](https://lofty-sailor-943.notion.site/Hi-I-m-SeungMin-29f022996d6e4d0b9fd1e907c7ead974?pvs=4)
   
