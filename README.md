@@ -1,5 +1,5 @@
 <h1 align="left">Hi 👋, I'm SeungMin</h1>
-<h3 align="left">A passionate frontend developer from Korea</h3>
+<h3 align="left">I want to be a passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seungmin-baek98&label=Profile%20views&color=0e75b6&style=flat" alt="seungmin-baek98" /> </p>
 
