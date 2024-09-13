@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seungmin-baek98&label=Profile%20views&color=0e75b6&style=flat" alt="seungmin-baek98" /> </p>
 
-- 🌱 I’m currently learning **JavaScript(ES6)**
+- 🌱 I’m currently learning **JavaScript(ES6) / node.js**
 
 - 👨‍💻 All of my team-projects are available at [https://github.com/suover/ott-search , https://github.com/suover/fit-on]
 
