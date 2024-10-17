@@ -25,6 +25,13 @@
   
 </p>
 
+
+<h3> 백준 티어 </h3>
+
+![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jah02190)
+
+
+
 <p><h2 align="left">📈 my github stats </h2></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seungmin-baek98&show_icons=true&locale=en&layout=compact" alt="seungmin-baek98" /></p>
