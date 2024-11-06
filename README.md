@@ -7,9 +7,9 @@
 
 - 👨‍💻 All of my team-projects are available at [OTT SEARCH](https://github.com/suover/ott-search) , [FIT ON](https://github.com/suover/fit-on)
 
-- 👨‍💻And now, I'm doing my personal-project, and it is available at [WETUBE](https://github.com/SeungMin-Baek98/webtube) 
+- 👨‍💻 And now, I'm doing my personal-project, and it is available at [WETUBE](https://github.com/SeungMin-Baek98/webtube) 
 
-- more detail.. 👉 [노션 바로가기](https://lofty-sailor-943.notion.site/Hi-I-m-SeungMin-29f022996d6e4d0b9fd1e907c7ead974?pvs=4)
+- 👉 [포트폴리오](https://lofty-sailor-943.notion.site/Hi-I-m-SeungMin-29f022996d6e4d0b9fd1e907c7ead974?pvs=4)
   
 - 📫 How to reach me **jah02190@naver.com**
 
