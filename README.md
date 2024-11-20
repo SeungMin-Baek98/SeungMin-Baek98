@@ -3,11 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seungmin-baek98&label=Profile%20views&color=0e75b6&style=flat" alt="seungmin-baek98" /> </p>
 
-- 🌱 I’m currently learning **JavaScript(ES6) / node.js**
+- 🌱 I’m currently learning **React / TypeScript**
 
 - 👨‍💻 All of my team-projects are available at [OTT SEARCH](https://github.com/suover/ott-search) , [FIT ON](https://github.com/suover/fit-on)
-
-- 👨‍💻 And now, I'm doing my personal-project, and it is available at [WETUBE](https://github.com/SeungMin-Baek98/webtube) 
 
 - 👉 [포트폴리오](https://lofty-sailor-943.notion.site/Hi-I-m-SeungMin-29f022996d6e4d0b9fd1e907c7ead974?pvs=4)
   
