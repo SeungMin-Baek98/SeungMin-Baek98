@@ -28,9 +28,14 @@
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 
+### Framework
+
+![Next.js](https://img.shields.io/badge/Next.Js-black.svg?&style=for-the-badge&logo=Next.Js&logoColor=white)
+
 
 ### Learning
 
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Next.js](https://img.shields.io/badge/Next.Js-black.svg?&style=for-the-badge&logo=Next.Js&logoColor=white)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
 
