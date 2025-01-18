@@ -51,13 +51,6 @@
 
 
 
-## 📚Studying
-
-### 백준 티어 
-
-![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=jah02190)
-
-
 
 <p><h2 align="left">📈 my github stats </h2></p>
 
