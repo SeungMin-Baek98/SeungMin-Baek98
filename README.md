@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my team-projects are available at [OTT SEARCH](https://github.com/suover/ott-search) , [FIT ON](https://github.com/suover/fit-on)
 
-- 👉 [포트폴리오](https://lofty-sailor-943.notion.site/Hi-I-m-SeungMin-29f022996d6e4d0b9fd1e907c7ead974?pvs=4)
+- 👉 [포트폴리오](http://seugnmin.notion.site)
   
 - 📫 How to reach me **jah02190@naver.com**
 
