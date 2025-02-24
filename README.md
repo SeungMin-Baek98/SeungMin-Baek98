@@ -2,18 +2,8 @@
 <h3 align="left">I want to be a passionate frontend developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seungmin-baek98&label=Profile%20views&color=0e75b6&style=flat" alt="seungmin-baek98" /> </p>
-
-- 🌱 I’m currently learning  **Next.js / TypeScript**
-
-- 👨‍💻 All of my team-projects are available at [OTT SEARCH](https://github.com/suover/ott-search) , [FIT ON](https://github.com/suover/fit-on)
-
-- 👉 [포트폴리오](http://seugnmin.notion.site)
   
 - 📫 How to reach me **jah02190@naver.com**
-
-
-
-
 
 ## 💪Skills
 
