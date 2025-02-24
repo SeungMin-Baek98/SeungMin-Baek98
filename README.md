@@ -1,9 +1,18 @@
 <h1 align="left">Hi 👋, I'm SeungMin</h1>
 <h3 align="left">I want to be a passionate frontend developer</h3>
+  
+  - 📫 How to reach me **jah02190@naver.com**
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=seungmin-baek98&label=Profile%20views&color=0e75b6&style=flat" alt="seungmin-baek98" /> </p>
   
-- 📫 How to reach me **jah02190@naver.com**
+
+
+<p><h2 align="left">📈 my github stats </h2></p>
+
+<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seungmin-baek98&show_icons=true&locale=en&layout=compact" alt="seungmin-baek98" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seungmin-baek98&show_icons=true&locale=en" alt="seungmin-baek98" /></p>
+
 
 ## 💪Skills
 
@@ -42,9 +51,4 @@
 
 
 
-<p><h2 align="left">📈 my github stats </h2></p>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seungmin-baek98&show_icons=true&locale=en&layout=compact" alt="seungmin-baek98" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seungmin-baek98&show_icons=true&locale=en" alt="seungmin-baek98" /></p>
 
