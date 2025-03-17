@@ -9,7 +9,7 @@
 
 <p><h2 align="left">📈 my github stats </h2></p>
 
-<a href="https://seugnmin.notion.site/?pvs=4">포트폴리오</a>
+<a href="https://seugnmin.notion.site/portfolio?pvs=4">포트폴리오</a>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seungmin-baek98&show_icons=true&locale=en&layout=compact" alt="seungmin-baek98" /></p>
 
