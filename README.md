@@ -1,55 +1,72 @@
-<h1 align="left">Hi 👋, I'm SeungMin</h1>
-<h3 align="left">I want to be a passionate frontend developer</h3>
-  
-  - 📫 How to reach me **jah02190@naver.com**
+<p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=SeungMin's%20GitHub&fontSize=50" /> </p>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=seungmin-baek98&label=Profile%20views&color=0e75b6&style=flat" alt="seungmin-baek98" /> </p>
-  
+<h3 align="center">👋🏻 Welcome</h3>
+<h3 align="center">I want to be a passionate frontend developer</h3>
+<p align="center">
+  <!-- Gmail -->
+  <img src="https://img.shields.io/badge/Gmail-seungminbaeg89@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="gmail" />
 
+  <!-- Naver -->
+  <img src="https://img.shields.io/badge/Naver-jah02190@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="naver" />
+</p>
 
-<p><h2 align="left">📈 my github stats </h2></p>
-
-<a href="https://seugnmin.notion.site/portfolio?pvs=4">포트폴리오</a>
-
-<p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=seungmin-baek98&show_icons=true&locale=en&layout=compact" alt="seungmin-baek98" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=seungmin-baek98&show_icons=true&locale=en" alt="seungmin-baek98" /></p>
-
-
-## 💪Skills
-
-### Languages
-
-![HTML5](https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=HTML5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=CSS3&logoColor=white)
-![JAVASCRIPT](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white)
-![Node.JS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-
-### Library
-
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-
-### Framework
-
-![Next.js](https://img.shields.io/badge/Next.Js-black.svg?&style=for-the-badge&logo=Next.Js&logoColor=white)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=seungmin-baek98&label=Profile%20Views&color=0e75b6&style=flat" alt="GitHub Profile Views" />
+</p>
 
 
-### Learning
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.Js-black.svg?&style=for-the-badge&logo=Next.Js&logoColor=white)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=white)
+<h3 align="center">📁 포트폴리오</h3>
 
-### Tools
+<p align="center">
+  <a href="https://seugnmin.notion.site/portfolio?pvs=4" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+</p>
 
-![VSCode](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-5C2D91.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 
-## 👥Group
-![Notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Slack](https://img.shields.io/badge/Slack-4A154B?style=for-the-badge&logo=slack&logoColor=white)
-![Discord](https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white)
 
+
+<h3 align="center"> 📚 Tech Stacks </h3> 
+
+<p align="center">
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
+  <img src="https://img.shields.io/badge/Next.Js-black.svg?&style=flat-square&logo=Next.Js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white"/>
+</p>
+
+<h3 align="center"> ⚒️ Tools </h3> 
+
+<div align="center"> 
+  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white"/>
+</div>
+
+<h3 align="center"> 👥 Group </h3>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/>
+</p>
+
+
+<h2 align="center">📊 GitHub Stats</h2>
+
+<table align="center">
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=seungmin-baek98&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungmin-baek98&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" alt="Top Langs" />
+    </td>
+  </tr>
+</table>
 
 
 
