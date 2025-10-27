@@ -2,28 +2,6 @@
 
 <h3 align="center">👋🏻 Welcome</h3>
 <h3 align="center">I want to be a passionate frontend developer</h3>
-<p align="center">
-  <!-- Gmail -->
-  <img src="https://img.shields.io/badge/Gmail-seungminbaeg89@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="gmail" />
-
-  <!-- Naver -->
-  <img src="https://img.shields.io/badge/Naver-jah02190@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="naver" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=seungmin-baek98&label=Profile%20Views&color=0e75b6&style=flat" alt="GitHub Profile Views" />
-</p>
-
-
-
-<h3 align="center">📁 포트폴리오</h3>
-
-<p align="center">
-  <a href="https://seugnmin.notion.site/portfolio?pvs=4" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
-</p>
-
 
 
 
@@ -41,17 +19,26 @@
   <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white"/>
 </p>
 
-<h3 align="center"> ⚒️ Tools </h3> 
 
-<div align="center"> 
-  <img src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=flat-square&logo=visual%20studio%20code&logoColor=white"/>
-</div>
 
-<h3 align="center"> 👥 Group </h3>
+
+
+<h3 align="center">📁 포트폴리오</h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Discord-7289DA?style=flat-square&logo=discord&logoColor=white"/>
+  <a href="https://seugnmin.notion.site/portfolio?pvs=4" target="_blank">
+    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
+  </a>
+</p>
+
+
+<h3 align="center">📞Contact</h3>
+<p align="center">
+  <!-- Gmail -->
+  <img src="https://img.shields.io/badge/Gmail-seungminbaeg89@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="gmail" />
+
+  <!-- Naver -->
+  <img src="https://img.shields.io/badge/Naver-jah02190@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="naver" />
 </p>
 
 
