@@ -1,60 +1,73 @@
-<p align="center"><img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=250&section=header&text=SeungMin's%20GitHub&fontSize=50" /> </p>
+<div align="center">
 
-<h3 align="center">👋🏻 Welcome</h3>
-<h3 align="center">I want to be a passionate frontend developer</h3>
+<sub>Frontend Developer</sub>
 
+# 백승민
 
+단순히 예쁜 화면보다,
+사용자가 막히지 않고 자연스럽게 흐름을 따라갈 수 있는 인터페이스를 만들고 싶습니다.
 
-<h3 align="center"> 📚 Tech Stacks </h3> 
+[Portfolio](https://seugnmin.notion.site/portfolio?pvs=4) · [Gmail](mailto:seungminbaeg89@gmail.com) · [Naver](mailto:jah02190@naver.com)
 
-<p align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=CSS3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black"/>
-</p>
+</div>
 
-<p align="center">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB"/>
-  <img src="https://img.shields.io/badge/Next.Js-black.svg?&style=flat-square&logo=Next.Js&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6.svg?&style=flat-square&logo=TypeScript&logoColor=white"/>
-</p>
+---
 
+## About Me
 
+- `React`, `Next.js`, `TypeScript`를 중심으로 프론트엔드 개발을 공부하고 있습니다.
+- 사용자가 바로 이해할 수 있는 UI와 오래 봐도 읽기 편한 코드를 중요하게 생각합니다.
+- 상태 관리와 데이터 흐름을 단순하고 명확하게 설계하는 데 관심이 많습니다.
+- 꾸준히 배우고 기록하면서 한 단계씩 성장하는 개발을 지향합니다.
 
+## Tech Stack
 
+| Category         | Stack                                                                                                                                                                                                                                                                                                                                                                      |
+| ---------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+| Frontend         | <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" /> <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" /> |
+| Styling          | <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />                                                                                                                                                                                                                                       |
+| State Management | <img src="https://img.shields.io/badge/Zustand-4A3428?style=flat-square&logoColor=white" alt="Zustand" />                                                                                                                                                                                                                                                                  |
+| Data Fetching    | <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />                                                                                                                                                                                                                                    |
 
-<h3 align="center">📁 포트폴리오</h3>
+## Selected Projects
 
-<p align="center">
-  <a href="https://seugnmin.notion.site/portfolio?pvs=4" target="_blank">
-    <img src="https://img.shields.io/badge/View%20Portfolio-000000?style=for-the-badge&logo=notion&logoColor=white"/>
-  </a>
-</p>
-
-
-<h3 align="center">📞Contact</h3>
-<p align="center">
-  <!-- Gmail -->
-  <img src="https://img.shields.io/badge/Gmail-seungminbaeg89@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white" alt="gmail" />
-
-  <!-- Naver -->
-  <img src="https://img.shields.io/badge/Naver-jah02190@naver.com-03C75A?style=flat-square&logo=naver&logoColor=white" alt="naver" />
-</p>
-
-
-<h2 align="center">📊 GitHub Stats</h2>
-
-<table align="center">
+<table>
   <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=seungmin-baek98&show_icons=true&locale=en&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+    <td width="50%" valign="top">
+      <h3>Mini Log</h3>
+      <p>SNS형 라이프로그 서비스로, 피드와 프로필 아카이브, 실시간 알림, AI 주간 회고 흐름까지 하나의 경험으로 연결한 프로젝트입니다.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+        <img src="https://img.shields.io/badge/Zustand-4A3428?style=flat-square&logoColor=white" alt="Zustand" />
+        <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
+      </p>
+      <a href="https://github.com/SeungMin-Baek98/onebite-SNS">Repository</a> · <a href="https://mini-log-v1.vercel.app/">배포 주소</a>
     </td>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungmin-baek98&layout=compact&theme=tokyonight&langs_count=6&hide_border=true" alt="Top Langs" />
+    <td width="50%" valign="top">
+      <h3>GAMEOUW</h3>
+      <p>게임을 주제로 한 서비스 경험을 다루며, 사용자가 빠르게 흐름을 이해하고 자연스럽게 몰입할 수 있는 화면 구성을 고민한 프로젝트입니다.</p>
+      <p>
+        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+        <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+      </p>
+      <a href="https://github.com/FESI11-Team5/Gameow">Repository</a> · <a href="https://gameow.vercel.app/">배포 주소</a>
     </td>
   </tr>
 </table>
 
+## What I Value
 
+- 사용자가 편하게 느끼는 자연스러운 인터페이스
+- 상태와 데이터 흐름이 명확한 구조
+- 다시 읽어도 이해하기 쉬운 코드
 
+## GitHub Stats
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=seungmin-baek98&show_icons=true&locale=en&theme=default&hide_border=true" height="165" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungmin-baek98&layout=compact&theme=default&langs_count=6&hide_border=true" height="165" alt="Top Languages" />
+</div>
