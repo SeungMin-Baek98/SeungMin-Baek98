@@ -67,6 +67,6 @@
 
 ## GitHub Stats
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api?username=seungmin-baek98&show_icons=true&locale=en&theme=default&hide_border=true" height="165" alt="GitHub Stats" />
 </div>
