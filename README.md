@@ -35,7 +35,7 @@
   <tr>
     <td width="50%" valign="top">
       <h3>Mini Log</h3>
-      <p>SNS형 라이프로그 서비스로, 피드와 프로필 아카이브, 실시간 알림, AI 주간 회고 흐름까지 하나의 경험으로 연결한 프로젝트입니다.</p>
+      <p>SNS형 라이프로그 서비스로, 피드와 프로필 아카이브, 실시간 알림, AI 주간 회고 흐름까지 하나의 경험으로 연결한 <strong>개인<strong/> 프로젝트입니다.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
@@ -47,7 +47,7 @@
     </td>
     <td width="50%" valign="top">
       <h3>GAMEOUW</h3>
-      <p>게임을 주제로 한 서비스 경험을 다루며, 사용자가 빠르게 흐름을 이해하고 자연스럽게 몰입할 수 있는 화면 구성을 고민한 프로젝트입니다.</p>
+      <p>게임을 주제로 한 서비스 경험을 다루며, 사용자가 빠르게 흐름을 이해하고 자연스럽게 몰입할 수 있는 화면 구성을 고민한 <strong>팀</strong> 프로젝트입니다.</p>
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -69,5 +69,4 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=seungmin-baek98&show_icons=true&locale=en&theme=default&hide_border=true" height="165" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=seungmin-baek98&layout=compact&theme=default&langs_count=6&hide_border=true" height="165" alt="Top Languages" />
 </div>
