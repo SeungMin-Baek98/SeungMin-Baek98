@@ -7,7 +7,7 @@
 단순히 예쁜 화면보다,
 사용자가 막히지 않고 자연스럽게 흐름을 따라갈 수 있는 인터페이스를 만들고 싶습니다.
 
-[Portfolio](https://seugnmin.notion.site/) · [Gmail](mailto:seungminbaeg89@gmail.com) · [Naver](mailto:jah02190@naver.com)
+[Portfolio](https://seungmin-portfolio.vercel.app/) · [Gmail](mailto:seungminbaeg89@gmail.com) · [Naver](mailto:jah02190@naver.com)
 
 </div>
 
