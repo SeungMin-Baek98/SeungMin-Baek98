@@ -56,7 +56,7 @@
          <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
         <img src="https://img.shields.io/badge/Zustand-4A3428?style=flat-square&logoColor=white" alt="Zustand" />
       </p>
-      <a href="https://github.com/SeungMin-Baek98/plog-frontend">Repository</a> · <a href="https://plog-pi.vercel.app/">배포 주소</a>
+      <a href="https://github.com/SeungMin-Baek98/onebite-SNS">Repository</a> · <a href="https://mini-log-v1.vercel.app/">배포 주소</a>
     </td>
   </tr>
   <tr>
@@ -71,7 +71,7 @@
         <img src="https://img.shields.io/badge/Zustand-4A3428?style=flat-square&logoColor=white" alt="Zustand" />
         <img src="https://img.shields.io/badge/Storybook-1?style=flat-square&logo=Storybook&logoSize=medium&labelColor=pink&color=pink" alt="Storybook"/>
       </p>
-      <a href="https://github.com/SeungMin-Baek98/onebite-SNS">Repository</a> · <a href="https://mini-log-v1.vercel.app/">배포 주소</a>
+      <a href="https://github.com/SeungMin-Baek98/plog-frontend">Repository</a> · <a href="https://plog-pi.vercel.app/">배포 주소</a>
     </td>
   </tr>
 </table>
