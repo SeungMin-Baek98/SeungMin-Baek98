@@ -7,7 +7,7 @@
 단순히 예쁜 화면보다,
 사용자가 막히지 않고 자연스럽게 흐름을 따라갈 수 있는 인터페이스를 만들고 싶습니다.
 
-[Portfolio](https://seugnmin.notion.site/portfolio?pvs=4) · [Gmail](mailto:seungminbaeg89@gmail.com) · [Naver](mailto:jah02190@naver.com)
+[Portfolio](https://seungmin-portfolio.vercel.app/) · [Gmail](mailto:seungminbaeg89@gmail.com) · [Naver](mailto:jah02190@naver.com)
 
 </div>
 
@@ -39,6 +39,7 @@
       <p>
         <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
         <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
         <img src="https://img.shields.io/badge/Zustand-4A3428?style=flat-square&logoColor=white" alt="Zustand" />
         <img src="https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white" alt="Supabase" />
@@ -49,12 +50,28 @@
       <h3>GAMEOUW</h3>
       <p>게임을 주제로 한 서비스 경험을 다루며, 사용자가 빠르게 흐름을 이해하고 자연스럽게 몰입할 수 있는 화면 구성을 고민한 <strong>팀</strong> 프로젝트입니다.</p>
       <p>
-        <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
         <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+         <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+        <img src="https://img.shields.io/badge/Zustand-4A3428?style=flat-square&logoColor=white" alt="Zustand" />
       </p>
-      <a href="https://github.com/FESI11-Team5/Gameow">Repository</a> · <a href="https://gameow.vercel.app/">배포 주소</a>
+      <a href="https://github.com/SeungMin-Baek98/plog-frontend">Repository</a> · <a href="https://plog-pi.vercel.app/">배포 주소</a>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>Plog</h3>
+      <p>자신만의 작업 공간을 기록 하며 <strong>Kakao Map</strong>기반 핀을 활용하여 본인이 작성한 글과 다른 사람의 찜한 게시글을 탐색 할 수 있는 서비스입니다</p>
+      <p>
+        <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
+        <img src="https://img.shields.io/badge/Zustand-4A3428?style=flat-square&logoColor=white" alt="Zustand" />
+        <img src="https://img.shields.io/badge/Storybook-1?style=flat-square&logo=Storybook&logoSize=medium&labelColor=pink&color=pink" alt="Storybook"/>
+      </p>
+      <a href="https://github.com/SeungMin-Baek98/onebite-SNS">Repository</a> · <a href="https://mini-log-v1.vercel.app/">배포 주소</a>
     </td>
   </tr>
 </table>
