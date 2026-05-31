@@ -56,12 +56,12 @@
          <img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=flat-square&logo=reactquery&logoColor=white" alt="TanStack Query" />
         <img src="https://img.shields.io/badge/Zustand-4A3428?style=flat-square&logoColor=white" alt="Zustand" />
       </p>
-      <a href="https://github.com/SeungMin-Baek98/onebite-SNS">Repository</a> · <a href="https://mini-log-v1.vercel.app/">배포 주소</a>
+      <a href="https://github.com/FESI11-Team5/Gameow">Repository</a> · <a href="https://gameow.vercel.app/">배포 주소</a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>Plog</h3>
+      <h3>PLog</h3>
       <p>자신만의 작업 공간을 기록 하며 <strong>Kakao Map</strong>기반 핀을 활용하여 본인이 작성한 글과 다른 사람의 찜한 게시글을 탐색 할 수 있는 서비스입니다</p>
       <p>
         <img src="https://img.shields.io/badge/Next.js-111111?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
